@@ -1,0 +1,37 @@
+2020-02-20 11:12:09,697 INFO [root] [__init__.py(<module>:8)] - debug
+2020-02-20 11:13:14,031 INFO [root] [__init__.py(<module>:8)] - debug
+2020-02-20 11:13:14,369 INFO [root] [mysql_employee.py(get_employee_data:14)] - 查询数据:('1181540965097492480', '13900957522', 'name998356', '21205023', datetime.datetime(2019, 10, 6, 8, 0), 1, '1066238836272664576', '???', datetime.datetime(2019, 12, 6, 0, 0))
+2020-02-20 11:13:14,369 INFO [root] [mysql_employee.py(get_employee_data:14)] - 查询数据:('1181540965097492480', '13900957522', 'name998356', '21205023', datetime.datetime(2019, 10, 6, 8, 0), 1, '1066238836272664576', '???', datetime.datetime(2019, 12, 6, 0, 0))
+2020-02-20 11:13:14,416 INFO [root] [base.py(__login:43)] - login result:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'b641d361-def2-4bb0-89ad-54157b19889d'}
+2020-02-20 11:13:14,416 INFO [root] [base.py(__login:43)] - login result:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'b641d361-def2-4bb0-89ad-54157b19889d'}
+2020-02-20 11:13:14,417 INFO [root] [base.py(_headers:35)] - 请求登录接口获取数据:{'Content-Type': 'application/json', 'Authorization': 'Bearer b641d361-def2-4bb0-89ad-54157b19889d'}
+2020-02-20 11:13:14,417 INFO [root] [base.py(_headers:35)] - 请求登录接口获取数据:{'Content-Type': 'application/json', 'Authorization': 'Bearer b641d361-def2-4bb0-89ad-54157b19889d'}
+2020-02-20 11:15:03,570 INFO [root] [__init__.py(<module>:8)] - debug
+2020-02-20 11:18:15,569 INFO [root] [__init__.py(<module>:8)] - debug
+2020-02-20 11:19:00,615 INFO [root] [__init__.py(<module>:8)] - debug
+2020-02-20 11:20:03,266 INFO [root] [__init__.py(<module>:8)] - debug
+2020-02-20 11:22:59,931 INFO [root] [__init__.py(<module>:8)] - debug
+2020-02-20 11:24:53,310 INFO [root] [__init__.py(<module>:8)] - debug
+2020-02-20 11:27:43,456 INFO [root] [__init__.py(<module>:8)] - debug
+2020-02-20 11:27:43,932 INFO [root] [mysql_employee.py(get_employee_data:17)] - 查询数据:None
+2020-02-20 11:27:43,932 INFO [root] [mysql_employee.py(get_employee_data:17)] - 查询数据:None
+2020-02-20 11:27:44,018 INFO [root] [mysql_employee.py(get_employee_data:17)] - 查询数据:None
+2020-02-20 11:27:44,018 INFO [root] [mysql_employee.py(get_employee_data:17)] - 查询数据:None
+2020-02-20 11:29:01,466 INFO [root] [__init__.py(<module>:8)] - debug
+2020-02-20 11:29:01,788 INFO [root] [mysql_employee.py(get_employee_data:17)] - 查询数据:None
+2020-02-20 11:29:01,788 INFO [root] [mysql_employee.py(get_employee_data:17)] - 查询数据:None
+2020-02-20 11:30:33,768 INFO [root] [__init__.py(<module>:8)] - debug
+2020-02-20 11:30:34,099 INFO [root] [mysql_employee.py(get_employee_data:17)] - 查询数据:None
+2020-02-20 11:30:34,099 INFO [root] [mysql_employee.py(get_employee_data:17)] - 查询数据:None
+2020-02-20 11:31:00,865 INFO [root] [__init__.py(<module>:8)] - debug
+2020-02-20 11:31:01,199 INFO [root] [mysql_employee.py(get_employee_data:17)] - 查询数据:None
+2020-02-20 11:31:01,199 INFO [root] [mysql_employee.py(get_employee_data:17)] - 查询数据:None
+2020-02-20 11:32:42,978 INFO [root] [__init__.py(<module>:8)] - debug
+2020-02-20 11:32:43,439 INFO [root] [mysql_employee.py(get_employee_data:17)] - 查询数据:None
+2020-02-20 11:32:43,439 INFO [root] [mysql_employee.py(get_employee_data:17)] - 查询数据:None
+2020-02-20 11:32:43,493 INFO [root] [base.py(__login:43)] - login result:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '450ec381-135c-46bb-95f7-df024c6bc1fb'}
+2020-02-20 11:32:43,493 INFO [root] [base.py(__login:43)] - login result:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '450ec381-135c-46bb-95f7-df024c6bc1fb'}
+2020-02-20 11:32:43,493 INFO [root] [base.py(_headers:35)] - 请求登录接口获取数据:{'Content-Type': 'application/json', 'Authorization': 'Bearer 450ec381-135c-46bb-95f7-df024c6bc1fb'}
+2020-02-20 11:32:43,493 INFO [root] [base.py(_headers:35)] - 请求登录接口获取数据:{'Content-Type': 'application/json', 'Authorization': 'Bearer 450ec381-135c-46bb-95f7-df024c6bc1fb'}
+2020-02-20 11:32:43,547 INFO [root] [base.py(_headers:32)] - 从缓存取的数据：{'Content-Type': 'application/json', 'Authorization': 'Bearer 450ec381-135c-46bb-95f7-df024c6bc1fb'}
+2020-02-20 11:32:43,547 INFO [root] [base.py(_headers:32)] - 从缓存取的数据：{'Content-Type': 'application/json', 'Authorization': 'Bearer 450ec381-135c-46bb-95f7-df024c6bc1fb'}
